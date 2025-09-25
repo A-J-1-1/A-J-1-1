@@ -5,7 +5,6 @@ I'm a data analyst and data engineer with a keen interest in data visualization,
 
 ## 🛠 Skills
 - **Programming Languages**: SQL, Python, R, DAX, Power Query (M), T-SQL, VBA
-- **Frameworks/Libraries**: none for now, but would like to learn PyTorch
 - **Tools**: Power BI, Tableau, Power Automate, Power Apps, SharePoint, Snowflake, Databricks, Azure, Microsoft SQL Server, Oracle SQL Developer, Microsoft Access, Microsoft Excel, GenAI, Microsoft Copilot, ChatGPT, UiPath
 
 ## 🌱 Currently Working On
