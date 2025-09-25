@@ -4,12 +4,12 @@
 I'm a data analyst and data engineer with a keen interest in data visualization, data warehousing, ETL, and AI/ML. I love exploring new technologies and applying them to solve real-world problems.
 
 ## 🛠 Skills
-- **Programming Languages**: SQL, Python, R, DAX, Power Query (M), T-SQL
+- **Programming Languages**: SQL, Python, R, DAX, Power Query (M), T-SQL, VBA
 - **Frameworks/Libraries**: none for now, but would like to learn PyTorch
-- **Tools**: Power BI, Tableau, Power Automate, Power Apps, SharePoint, Snowflake, Databricks, Microsoft SQL Server, Oracle SQL Developer, Microsoft Access, Microsoft Excel, Microsoft Copilot, ChatGPT
+- **Tools**: Power BI, Tableau, Power Automate, Power Apps, SharePoint, Snowflake, Databricks, Azure, Microsoft SQL Server, Oracle SQL Developer, Microsoft Access, Microsoft Excel, GenAI, Microsoft Copilot, ChatGPT, UiPath
 
 ## 🌱 Currently Working On
-I'm currently working towards starting my own business! I'm currently working towards starting my own business! My focus is on building a streamlined process to deliver Power BI dashboards that help organizations turn data into clear, actionable insights.
+I'm currently working towards starting my own business! My focus is on building a streamlined process to deliver Power BI dashboards that help organizations turn data into clear, actionable insights.
 
 ## 📫 How to Reach Me
 - **Email**: ajewell82@gmail.com
